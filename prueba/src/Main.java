@@ -10,7 +10,7 @@ public class Main {
 		ArrayList<String> lista = new ArrayList<>();
 
 		System.out.println("Hola Juan, introduce tu lista de la compra: ");
-
+		//ej: refresco VINO pataTAS pan embutido pan vino fin
 		while (true) {
 			String nombre = sc.next();
 			lista.add(nombre);
